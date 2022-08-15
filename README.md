@@ -8,7 +8,7 @@ Programming itself is quite fun, so fear not. Below are some links to gentle int
 If you already have some programming knowledge from another language then getting into python is easier. After all the
 programming way of thinking cuts across these languages. For example
 
-In R we index consider we have a list mylist we index the first element with `mylist[[1]]` but in python we do something
+In R, consider we have a list "mylist" we index the first element with `mylist[[1]]` but in python we do something
 slightly different `mylist[0]`. Well because python starts counting from zero, and we index our list like R programmers
 index their vectors.
 
